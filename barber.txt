@@ -1,1 +1,1 @@
-Fitxer barber_maria que el copiarem a github
+Afegeixo linea desde el repositori local
